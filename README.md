@@ -1,3 +1,7 @@
+# Forked from https://github.com/sysadminsh/OctoPrint-M73ETAOverride 
+
+This is only temporary for python3 compat (as it was already compatible, just needed the declaration).
+
 # OctoPrint M73 ETA Override
 
 Plugin that overrides OctoPrint ETA to values from last M73 gcode sent to the printer.
@@ -6,10 +10,10 @@ The last Sli3cr Prusa Edition implemented M73 gcode injecting to the generated g
 
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
+~~Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
+or manually using this URL:~~
 
-    https://github.com/sysadminsh/OctoPrint-M73ETAOverride/archive/master.zip
+    https://github.com/ShanDestromp/OctoPrint-M73ETAOverride/archive/master.zip
 
 
 ## Configuration
